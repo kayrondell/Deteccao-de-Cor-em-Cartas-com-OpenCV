@@ -6,7 +6,6 @@ from collections import Counter
 # Caso esteja no Windows e precise especificar o caminho do executável do Tesseract
 # Exemplo: pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-# Pasta onde estão as imagens
 VALID_FOLDER = 'valid'
 
 # Listas de palavras esperadas para identificação dos valores e naipes
